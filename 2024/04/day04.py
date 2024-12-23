@@ -48,5 +48,3 @@ def p2(grid):
 if __name__ == '__main__':
     print(len(p1(read('input.txt'), "XMAS")) + len(p1(read('input.txt'), "SAMX")))
     print(p2(read('input.txt')))
-
-#TODO: pls dome
